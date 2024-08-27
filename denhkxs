@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Пример сайта</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Заголовок сайта</h1>
+        <p>Это пример описания для вашего сайта.</p>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Раздел 1</h2>
+            <p>Некоторое описание или контент для первого раздела.</p>
+        </section>
+        
+        <section>
+            <h2>Раздел 2</h2>
+            <p>Контент для второго раздела.</p>
+            <button id="exampleButton">Нажми меня</button>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Ваше Имя. Все права защищены.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
